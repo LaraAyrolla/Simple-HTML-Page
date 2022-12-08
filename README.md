@@ -15,7 +15,6 @@ Utilização de HTML para o posicionamento dos elementos na página e CSS para a
 
 ## Screenshots
 ![Alt text](/screenshots/home1.png?raw=true "Página Inicial")
-![Alt text](/screenshots/home2.png?raw=true "Fim da Página Inicial")
 ![Alt text](/screenshots/page2.png?raw=true "Página 2 (Sobre)")
 
 

@@ -1,0 +1,156 @@
+/*global*/
+body{
+    background-color: #FFC0CB;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1{
+    color: #FFFFFF;
+    background-color: #FF1493;
+    padding: 5%;
+    text-align: center;
+}
+
+h2{
+    color: #4aa191;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+nav, footer{
+    background-color: #4aa191;
+    padding: 1%;
+}
+
+section{
+    padding-top: 1%;
+    background-color: #FFFFFF;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer{
+    background-color: #4aa191;
+    padding: 5%;
+    text-align: center;
+    
+}
+
+
+p{
+    text-align: justify;
+}
+
+.nav-item{
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #4aa191;
+}
+
+.nav-item-current{
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-decoration: none;
+    color: #4aa191;
+    background-color: #FFFFFF;
+}
+
+/*index.html*/
+.project{
+    float: left;
+    width: 48%;
+    padding: 2%;
+    background-color: #FFFFFF;
+}
+
+.projects{
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+.project-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.footer-link, address{
+    font-size: larger;
+    color: #c6dfdb;
+}
+
+/*pagina2.html*/
+table{
+    width: 65%;
+    padding: 1%;
+    align-content: center;
+    background-color: #c6dfdb;
+    border-radius: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+
+th{
+    font-size: x-large;
+    font-weight: bold;
+    padding: 5%;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    background-color: #88C0B6;
+    margin: 0px;
+    border-width: 0px;
+}
+
+td{
+    align-content: center;
+}
+
+.bio-section{
+    border: 2%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bio{
+    padding: 5%;
+    text-align: justify;
+}
+
+.table-img{
+    height: 25%;
+    width: 25%;
+    float: left;
+}
+
+.about-content{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    font-size: large;
+}
+
+.greeting{
+    font-size: x-large;
+}
+
+.greeting, .list-title{
+    font-weight: bold;
+}
+
